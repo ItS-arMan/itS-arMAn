@@ -5,7 +5,7 @@ I'm an enthusiastic Data Science student with a strong interest in **Data Analyt
 ---
 
 ### 🌐 About Me
-- 📚 **University Student** with a focus on Data Science and Analytics.
+- 📚 **Master Student** with a focus on Data Science and Analytics.
 - 📊 **Aspiring Data Analyst** passionate about understanding the inner workings of companies through **big data** analysis.
 - 🗣️ Currently improving my **German** skills (at B2 level) to enhance my studies and future career opportunities in Germany.
 
