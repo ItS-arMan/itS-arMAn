@@ -35,7 +35,3 @@ When I’m not diving into data, you can find me enjoying some **rock and metal 
 - **Email**: itSarman@icloud.com
 
 Whether you want to chat about data, music, or anything in between, feel free to reach out. Let’s connect and explore the world of Data Science together!
-
----
-
-Thanks for visiting my profile! 😄 Hope to connect with like-minded learners and creators.
