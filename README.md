@@ -20,17 +20,6 @@ I'm an enthusiastic Data Science student with a strong interest in **Data Analyt
 
 ---
 
-### 🚀 What I'm Working On
-- **Advanced Data Science Techniques**: Delving deeper into Machine Learning, Data Engineering, and large-scale data processing.
-- **Language Skills**: Improving my German, focusing on speaking and comprehension, to feel confident studying and working in Germany.
-
----
-
-### 🎶 A Bit More About Me
-When I’m not diving into data, you can find me enjoying some **rock and metal bands** like **Rammstein** or getting into the rhythm of **hip-hop**. Music is my go-to for relaxation and inspiration, whether it’s intense guitar riffs or beats that tell a story!
-
----
-
 ### 📫 Get In Touch!
 - **Email**: itSarman@icloud.com
 
