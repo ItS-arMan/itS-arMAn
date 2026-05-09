@@ -1,6 +1,6 @@
 Moving from data points to insights. Currently based in Tehran, soon heading to Germany for my Master’s.
 
-Current Mission: Mastering B2 German while exploring large-scale data architectures.
+Current Mission: Mastering C1 German while exploring large-scale data architectures.
 Interests: Graph Theory (NetworkX), Predictive Modeling, and Business Intelligence.
 Tech Stack:
 Data: Python, Pandas, SQL, Scikit-Learn.
